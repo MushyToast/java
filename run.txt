@@ -1,0 +1,3 @@
+java src/main/java/com/mycompany/app/App.java
+
+^ literally cause im lazy and i dont wanna write out the directory every time
